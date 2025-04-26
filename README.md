@@ -1,4 +1,4 @@
-# HTML Email Campaign Template
+# HTML Email Campaign Template for Marketing Campaign
 
 A responsive HTML email template designed for marketing campaigns with modern features and cross-client compatibility.
 
